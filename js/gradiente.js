@@ -17,5 +17,5 @@ document.addEventListener("mousemove", (event) => {
 });
 
 document.addEventListener("scroll", () => {
-    // Aquí puedes agregar lo del oscurecimiento si gustas
+    //
 });
